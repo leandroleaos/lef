@@ -1,0 +1,12 @@
+config.php
+includes/config.php
+api/config.php
+venv/
+.venv/
+env/
+.vscode/
+.idea/
+__pycache__/
+*.log
+
+
